@@ -5,7 +5,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid " Built-in Groups"
-msgstr ""
+msgstr " Eingebaute Gruppen"
 
 msgid " Builtin Users"
 msgstr " Eingebaute Benutzer"
@@ -17,7 +17,7 @@ msgid " Download Updates"
 msgstr " Aktualisierungen herunterladen"
 
 msgid " First data vdev is a "
-msgstr ""
+msgstr "Das erste vdev mit Daten ist"
 
 msgid " First vdev has "
 msgstr " Das erste VDEV hat "
@@ -110,7 +110,7 @@ msgstr ""
 "die Systemperformance beeinträchtigen."
 
 msgid " official plugins"
-msgstr ""
+msgstr " Offizielle Plugins"
 
 msgid " seconds"
 msgstr " Sekunden"
@@ -178,7 +178,7 @@ msgid "(Remove pool from database)"
 msgstr "(Pool aus Datenbank entfernen)"
 
 msgid "(top-right), then"
-msgstr ""
+msgstr "(oben-rechts), dann"
 
 msgid ", new Metadata vdev is a "
 msgstr ", neue Metadate vdev ist ein "
@@ -253,6 +253,9 @@ msgid ""
 "by     mistake, reconnect the hardware and use <b>Import Pool</b>.<br /><br "
 "/>"
 msgstr ""
+"</i>ist in der Datenbank, jedoch nicht mit der Maschine verbunden. Wenn es Exportiert wurde "
+" Ausversehen, Hardware neu verbinden und verwenden <b>Import Pool</b>.<br /><br "
+"/>"
 
 msgid ""
 "<a "
